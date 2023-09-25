@@ -1,0 +1,37 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos de usuário e configuração específicos do Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Arquivos de log e depuração
+*.log
+*.vspscc
+
+# Arquivos de configuração
+*.suo
+*.user
+*.suo
+*.suo
+*.user
+*.suo
+*.user
+
+# Arquivos temporários
+*~
+*.swp
+
+# Pacotes NuGet
+packages/
+
+# Dependências de construção
+ProjectAssemblies/
+
+
+
